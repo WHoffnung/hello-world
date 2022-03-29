@@ -7,5 +7,5 @@ I am beginning a journey into GIT and React. It appears to be a long adventure.
 2. Adding it to my computer
 3. Opening CodeEditor
 4. Doing something useful.
-**Can I do it?**
-*I am confident*
+>**Can I do it?**
+*I am confident*>
