@@ -8,4 +8,5 @@ I am beginning a journey into GIT and React. It appears to be a long adventure.
 3. Opening CodeEditor
 4. Doing something useful.
 >**Can I do it?**
-*I am confident*>
+*I am confident*
+What happens after finishing a blockquote?
